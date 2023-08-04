@@ -1,9 +1,6 @@
 # CodeClauseInternship_Customer-Segmentation
 
-<div class="alert alert-block alert-warning">
-Please note that plotly figure will not show when it is uploaded to GitHib due to static stuff. So you can rerun the code once you have it on your Local machine or check out the Link I include in the repo that display the notebook on web.
 
-Click [here](https://nbviewer.org/github/ibrahim-ogunbiyi/Customer-Segmentation/blob/main/Customer%20Segmentation.ipynb) to see the note on nbviewer.
 </div>
 
 # Business Problem
